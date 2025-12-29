@@ -10,7 +10,7 @@ PersephrakShell.php is a sophisticated PHP-based web shell disguised as a file m
 
 ## Safe HTML Demo
 
-The `index.html` file is a **100% static frontend mockup**:
+The `PersephrakSDemo.html` file is a **100% static frontend mockup, not fully based compared to original php**:
 - Pure HTML/CSS/JavaScript
 - No server-side code or file access
 - Visual simulation only (alerts on clicks)
@@ -65,7 +65,7 @@ The authentic PersephrakShell.php provides **full server compromise**:
 ## Attack Vector
 
 1. Upload via vulnerable file upload
-2. Access `/PersephrakShell.php`
+2. Access `/PersephrakShellv1x.php`
 3. Enter password → Full server control
 4. Extract credentials → Lateral movement
 5. Deploy persistence → Long-term access
