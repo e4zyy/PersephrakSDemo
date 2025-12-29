@@ -5,7 +5,7 @@
 
 PersephrakShell.php is a sophisticated PHP-based web shell disguised as a file manager. This repository contains:
 
-1. **Safe HTML Mockup** (`index.html`) - Pure frontend demo with zero functionality
+1. **Safe HTML Mockup** (`PersephrakSDemo.html`) - Pure frontend demo with zero functionality
 2. **Original Backdoor Analysis** - Technical breakdown of the malicious PHP version
 
 ## Safe HTML Demo
@@ -20,7 +20,7 @@ Deploy instantly via GitHub Pages or any static host.
 
 ## Original Backdoor Capabilities
 
-The authentic PersephrakShell.php provides **full server compromise**:
+The authentic PersephrakShellv1x.php provides **full server compromise**:
 
 ### File System Control
 - Arbitrary file read/write/edit (including system files)
