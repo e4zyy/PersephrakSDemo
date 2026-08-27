@@ -84,7 +84,7 @@ This repository serves **educational and security research purposes only**:
 
 ## Deployment (Safe Demo Only)
 
-Coded By @z0d131482700x Persephrak Red & Blue Team Security
+Coded By Xer0Tlabs x Persephrak Decentralized Syndicate
 
 proof: https://shorturl.at/TadQ1
 
